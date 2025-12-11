@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="docs/images/logo-concept-a.png" alt="Logo A" width="400">
+  <img src="docs/images/logo-concept-b.png" alt="Logo B" width="400">
+</div>
 anki-slideshow
 ==============
 
